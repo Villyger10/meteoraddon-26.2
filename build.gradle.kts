@@ -1,5 +1,5 @@
 plugins {
-    id("fabric-loom") version (properties["loom_version"] as String)
+    id("fabric-loom") version (properties("loom_version") as String)
 }
 
 base {
