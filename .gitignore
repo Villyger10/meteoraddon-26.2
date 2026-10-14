@@ -1,5 +1,3 @@
-# Ignore all JAR files
-*.jar
 
 # Explicitly keep the Gradle wrapper JAR (must appear after *.jar)
 !gradle-wrapper.jar
